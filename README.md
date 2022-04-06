@@ -5,9 +5,9 @@
 
 <p align="center">
     <a href="https://twitter.com/vexybell">twitter</a>
-    <img src="https://media4.giphy.com/media/U6GL20Vz7uX0Wtp46i/giphy.gif" width=15>
+    <img src="https://i.pinimg.com/originals/ff/47/6d/ff476dd9c816c7468656a646109d8d29.png" width=15>
     <a href="No yet">linkedIn</a>
-    <img src="https://media4.giphy.com/media/U6GL20Vz7uX0Wtp46i/giphy.gif" width=15>
+    <img src="https://i.pinimg.com/originals/ff/47/6d/ff476dd9c816c7468656a646109d8d29.png" width=15>
     <a href="No yet">website</a>
 </p>
 
@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-    <img src="https://media1.giphy.com/media/eHjrC6X9zDIMI0alnP/giphy.gif" width=60>
+    <img src="https://i.pinimg.com/originals/ea/56/e1/ea56e152f8ab35ce7f42e300ad1cbc39.gif" width=60>
 </p>
 
 <h2> About me </h2>
@@ -35,5 +35,5 @@
 
 <hr>
 <p align="center">
-    <img src="https://i.pinimg.com/originals/d8/be/8f/d8be8f633920de905b48d8942cb348fc.gif" width=100>
+    <img src="https://i.pinimg.com/originals/d8/be/8f/d8be8f633920de905b48d8942cb348fc.gif" width=60>
 </p>
