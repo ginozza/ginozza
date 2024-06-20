@@ -1,16 +1,34 @@
-## Hi there 👋
+<h3 align="center">
+        <samp> Hey There!, I am
+                <b><a target="_blank" href="">Juan</a></b>
+        </samp>
+</h3>
 
-<!--
-**ginozza/ginozza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> 
+  <a href="https://linkedin.com/in/juan-simancas" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="juansimancas"/>
+ </a></p>
 
-Here are some ideas to get you started:
+<p align="center"> 
+  <samp>
+    「 While JavaScript and Node.js are my favorites, I'm always open to exploring new technologies.</b> 」
+    <br>
+    <br>
+  </samp>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```javascript
+const aboutMe = {
+    name: "Juan",
+    pronouns: ["he", "him"],
+    student: "University of Magdalena, Oracle Next Education",
+    preferredTechStack: {
+        languages: ["JavaScript", "Python"],
+        frameworks: ["Node.js"],
+        databases: ["MongoDB, MySQL"]
+    },
+    hasUsed: ["node.js", "git"]
+};
+
+console.log(aboutMe);
+```
