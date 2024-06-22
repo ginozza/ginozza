@@ -11,7 +11,7 @@
 
 <p align="center"> 
   <samp>
-    「 While JavaScript and Node.js are my favorites, I'm always open to exploring new technologies.</b> 」
+    「 Systems Engineering student at the University of Magdalena</b> 」
     <br>
     <br>
   </samp>
