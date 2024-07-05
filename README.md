@@ -25,7 +25,7 @@ const aboutMe = {
     preferredTechStack: {
         languages: ["JavaScript", "Python"],
         frameworks: ["Node.js"],
-        databases: ["MongoDB, MySQL"]
+        databases: ["MySQL"]
     },
     hasUsed: ["node.js", "git"]
 };
