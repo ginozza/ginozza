@@ -23,12 +23,11 @@ const aboutMe = {
     pronouns: ["he", "him"],
     student: "University of Magdalena, Oracle Next Education",
     preferredTechStack: {
-        languages: ["JavaScript", "Python", "Java", "C"],
-        tools: ["git"],
-        frameworks: ["Node.js"],
+        currentlyLearning: ["JavaScript", "Python", "TypeScript", "GO", "Java", "Angular"],
+        tools: ["git", "Figma", "Postman", "PostgreSQL"],
         databases: ["MySQL"]
     },
-    hasUsed: ["JavaScript", "CSS", "HTML5", "Java", "C", "Node.js", "git"]
+    hasUsed: ["JavaScript", "CSS", "HTML5", "Java", "Node.js", "C", "git", "Go"]
 };
 
 console.log(aboutMe);
