@@ -39,5 +39,5 @@ console.log(aboutMe);
         <br>
 </h3>
 
-<img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=ginozza&show_icons=true&theme=dracula" align="left" width="48%" height="200px">
-<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginozza&layout=compact&theme=dracula" align="left" width="48%" height="200px">
+<img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=ginozza&show_icons=true&theme=dracula" align="left" width="47%" height="200px">
+<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginozza&layout=compact&theme=dracula" align="left" width="47%" height="200px">
