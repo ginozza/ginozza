@@ -33,11 +33,12 @@ const aboutMe = {
 console.log(aboutMe);
 ```
 <h3 align="center">
-        <samp> Stats
+        <samp> Statistics
         </samp>
-        <br>
-        <br>
 </h3>
 
-<img alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=ginozza&show_icons=true&theme=dracula" align="left" width="47%" height="200px">
-<img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ginozza&layout=compact&theme=dracula" align="left" width="47%" height="200px">
+<p align="center">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=ginozza&show_icons=true&count_private=true&theme=material-palenight&hide_border=true&hide=issues,contribs&bg_color=00000000">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=ginozza&layout=compact&hide_border=true&theme=material-palenight&bg_color=00000000&langs_count=6">
+  <img src ="https://github-readme-streak-stats.herokuapp.com?user=ginozza&theme=material-palenight&hide_border=true&background=FFFFFF00">
+</p>
