@@ -24,8 +24,8 @@ const aboutMe = {
     student: "University of Magdalena, Oracle Next Education",
     preferredTechStack: {
         currentlyLearning: ["JavaScript", "Python", "TypeScript", "GO", "Java", "Angular"],
-        tools: ["git", "Figma", "Postman", "PostgreSQL"],
-        databases: ["MySQL"]
+        tools: ["git", "Figma", "Postman"],
+        databases: ["MySQL", "PostgreSQL"]
     },
     hasUsed: ["JavaScript", "CSS", "HTML5", "Java", "Node.js", "C", "git", "Go"]
 };
