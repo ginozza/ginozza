@@ -1,12 +1,12 @@
 <h3 align="center">
     <p> I am
-        <b><a target="_blank" href="" style="color:red;">Juan</a></b>
+        <b><a target="_blank" href="">Juan</a></b>
     </p>
 </h3>
 
 <p align="center"> 
   <a href="https://linkedin.com/in/juan-simancas" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=darkred" alt="juansimancas"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=purple" alt="juansimancas"/>
  </a></p>
 
 <p align="center"> 
